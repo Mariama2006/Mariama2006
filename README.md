@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning software engineering
-- 📫 How to reach me: henricarsanya@gmail.com
+- 📫 My personal email: henricarsanya@gmail.com
